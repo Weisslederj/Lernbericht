@@ -12,23 +12,15 @@ Ich habe gelernt ein if, else und while schlaufe richtig anzuwenden.
 
 ## Beschreibung
 
- while (player != computer)
-                {
-                    if (player > computer)
-                        Console.WriteLine("Deine Nummer ist zu hoch!");
-                    else
-                        Console.WriteLine("Deine nummer ist zu tief!");
+ Console.WriteLine("Willst du nochmal spielen?\n[y] yes | [n] no");
+                var input = Console.ReadLine();
 
-                    counter++;
-                    player = GetPlayerSelection();
-                }
+                if (input.ToLower() != "y")
+                    isGameRunning = false;
+                    
+Der Code macht dass man nochmal spielen kann, fragt zuerst ob man nochmal Spielen will wenn Ja dann y wenn nein dann n.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+[YT-Video](https://youtu.be/JRT0Stjd2VQ)
 
 ## Verifikation
 
