@@ -12,9 +12,10 @@ Ich habe gelernt ein if, else und while schlaufe richtig anzuwenden.
 
 ## Beschreibung
 
- Console.WriteLine("Willst du nochmal spielen?\n[y] yes | [n] no");
-                var input = Console.ReadLine();
 
+              Console.WriteLine("Willst du nochmal spielen?\n[y] yes | [n] no");
+  
+                var input = Console.ReadLine();
                 if (input.ToLower() != "y")
                     isGameRunning = false;
                     
@@ -30,8 +31,8 @@ Im Video sieht wie der Randum-Numbergenerator funktioniert, Im code sieht man da
 
 # Reflektion zum Arbeitsprozess
 
-Es lief gut dass das Programm lief
+Es lief gut dass das Programm lief und dass ich recht motiviert war ein gutes Programm zu schreiben.
 
-Weniger gut lief dass 
+Weniger gut lief dass ich nicht alles einfügen konnte was ich wollte und meine Zeiteinteilung nicht so gut ist.
 
 **VBV**: Ein Verbesserungs Vorschlag ist, dass mann die Einteilung besser macht (Planung).
