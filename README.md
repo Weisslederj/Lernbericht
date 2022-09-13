@@ -22,14 +22,16 @@ Der Code macht dass man nochmal spielen kann, fragt zuerst ob man nochmal Spiele
 
 [YT-Video](https://youtu.be/JRT0Stjd2VQ)
 
+Bei diesem Auftrag habe ich gelernt, wie man die if, else und while schleife benutzt, Eine Frage stellt und dann eine Antwort geben kann, Z.b. y für ja und n für nein und dann nochmal den code ausführen oder das Programm zu beenden.
+
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Im Video sieht wie der Randum-Numbergenerator funktioniert, Im code sieht man dass ich gelernt habe wei man nochmal spielen will. Im Text habe ich gelernt wie man If und andere statments benutzt.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Es lief gut dass das Programm lief
 
-👎 und etwas, was nicht gut lief.
+Weniger gut lief dass 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ein Verbesserungs Vorschlag ist, dass mann die Einteilung besser macht (Planung).
